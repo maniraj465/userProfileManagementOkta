@@ -1,2 +1,2 @@
 # userProfileManagementOkta
-This microservice will create, update, get and delete user in OKTA platform.
+This Microservice is written in Spring Boot and it manage user profile in OKTA platform.
